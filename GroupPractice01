@@ -28,9 +28,19 @@ Mehmet S
 48. What is Iterator and difference between for each loop?	
 11. What are various ways of locating an element in Selenium?
 
-Ahmet	
-22. What is immutable ?	52. Do you know typecasting? What is casting?	
+Ahmet
 12. Why I cannot find element?
+    --Key Words:focus on your selected Locator
+                iframe
+                check Page (change)
+22. What is immutable?
+    --Key Words:string objects.
+                unmodifiable or unchangeable.
+
+52. Do you know typecasting? What is casting?
+    --Key words:Widening Casting (automatically)
+                Narrowing Casting (manually)
+
 
 Muhammed	
 24. What is Access modifier and what are the different access modifiers?	
