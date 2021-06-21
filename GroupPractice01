@@ -38,10 +38,16 @@ Muhammed
 14. What is Xpath?
 
 Halil	
-25. Difference between Public, Private and Protected modifier in Java?	
-1. What is Selenium and what is composed of?	
+25. Difference between Public, Private and Protected modifier in Java?
+    Default   --> same package
+    Private   --> current class
+    Protected --> same package or subclass in different package
+    Public    --> accessible everywhere
+1. What is Selenium and what is composed of?
+              --> Automation Testing Tool for web browsers
 15. Absolute (/) and Relative (//) Xpath?
-
+              --> Absolute : From parent to child
+              --> Relative : Looks anywhere in the page
 Murat 	
 28. What is Array?	
 2. What are the advantages of Selenium?	
