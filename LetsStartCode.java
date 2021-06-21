@@ -9,8 +9,13 @@ public class Car{
   public void stop(){
     System.out.println("Current velocity is zero");
   }
+  public void start(){
+    System.out.println("Run the engine");
+  }
   public static void main(String [] args){
+    start();
     acceleration();
     stop();
+
   }
     
