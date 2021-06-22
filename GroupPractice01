@@ -36,6 +36,7 @@ Ahmet
 22. What is immutable?
     --Key Words:string objects.
                 unmodifiable or unchangeable.
+                final
 
 52. Do you know typecasting? What is casting?
     --Key words:Widening Casting (automatically)
