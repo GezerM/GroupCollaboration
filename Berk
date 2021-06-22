@@ -5,3 +5,6 @@ Starter
 
 6. What we don't do with selenium?
 *experts trained             *Pure database testing
+
+22. Difference between xpath and css selector?
+*css cannot work with text   *css is working faster
