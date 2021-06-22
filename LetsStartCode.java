@@ -13,6 +13,12 @@ public class Car{
     acceleration();
     stop();
   }
+  public class Dog {
 
+    String breed;
+    int age;
+    String color;
+    String name;
 
+  }
     
