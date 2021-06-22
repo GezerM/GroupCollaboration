@@ -35,7 +35,5 @@ public class Car{
     public void sleeping() {
       System.out.println(name + " is sleeping");
     }
-
-
   }
     
