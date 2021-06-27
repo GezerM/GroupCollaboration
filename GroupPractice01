@@ -70,7 +70,7 @@ Harun
 . What are the limitations of Selenium?	
 18. How to test dynamic table?
 
-Galip	
+Galip
 43. What is final keyword?	
 5. What types of testing you automate with Selenium?	
 21. How can we move to nth child element using xpath?
@@ -81,4 +81,5 @@ Berk
 6. What we don't do with selenium?
 *experts trained             *Pure database testing
 22. Difference between xpath and css selector?
-*css cannot work with text   *css is working faster
+
+
