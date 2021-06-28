@@ -1,0 +1,91 @@
+Index: GroupPractice01
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Dear all \r\nThis is an experimental issue\r\nso please make your changes here and push them to the group and see how this will work!\r\n\r\nIn this exercise you are kindly expected to make changes on the document, such as adding two keywords to your questions and push it back. So will give soft try how we work on one single document. Currently it will be a straight text message, but in the near future we will try to collaborate on a Java code as well. \r\nObviously this is not the best practice but it is only the first practice for all of us.\r\nBy the way thank you for your cooperation in advance.\r\n\r\n\r\nDear @everyone, \r\nWe are going to have our regular group meeting on Monday. In order to get the most of it, I have assigned some questions, from the document that was share by Omer, to each of you. I did try to follow the order of questions but skipped some for a number of reasons. \r\nHere are the rules of engagement. \r\n1.    We will have in total three loops. I will go person by person, one question at a time. \r\n2.    Each of you will try to do what we do for a Flipgrid recording.\r\n3.    But each of you will have only one minute each question and any question whether long or short. So please tailor your response accordingly. (I might consider to do something other for longer answers later, but for the first round I am looking for a light touch and go to each and every question on the document). \r\n4.    Please at the start of your response try give us two keywords that we should remember regarding that question. \r\nAt the end of the meeting we will have a short retro session to decide on what we should keep doing and what we should fix. \r\nSo if you have any questions, feel free to throw them in. And please try to be happy what you have as a question, since life itself might not be no more just than this.\r\n\r\n\r\nMehmet A\t\r\n19. Important terminology in Inheritance?\t\r\n47. What's the difference between IS-A and HAS-A relationship?\t\r\n7. What is in the Selenium tool set?\r\n\r\nMehmet S\t\r\n21. Difference between method Overloading and method Overriding?\r\n.\r\n\r\n48. What is Iterator and difference between for each loop?\r\n\r\n11. What are various ways of locating an element in Selenium?\r\n\r\n\r\n\t\r\n\r\nAhmet\r\n12. Why I cannot find element?\r\n    --Key Words:focus on your selected Locator\r\n                iframe\r\n                check Page (change)\r\n22. What is immutable?\r\n    --Key Words:string objects.\r\n                unmodifiable or unchangeable.\r\n                final\r\n\r\n52. Do you know typecasting? What is casting?\r\n    --Key words:Widening Casting (automatically)\r\n                Narrowing Casting (manually)\r\n\r\n\r\nMuhammed\t\r\n24. What is Access modifier and what are the different access modifiers?\t\r\n54. How do you use an abstract class in your project give me an example?\t\r\n14. What is Xpath?\r\n\r\nHalil\t\r\n25. Difference between Public, Private and Protected modifier in Java?\r\n    Default   --> same package\r\n    Private   --> current class\r\n    Protected --> same package or subclass in different package\r\n    Public    --> accessible everywhere\r\n1. What is Selenium and what is composed of?\r\n              --> Automation Testing Tool for web browsers\r\n15. Absolute (/) and Relative (//) Xpath?\r\n              --> Absolute : From parent to child\r\n              --> Relative : Looks anywhere in the page\r\nMurat \t\r\n28. What is Array?\t\r\n2. What are the advantages of Selenium?\t\r\n16. How do you handle dynamic elements?\r\n\r\nSema\t\r\n29. How do you find if ArrayList contains duplicates or not?\t\r\n3. What are the disadvantages of Selenium?\t\r\n17. How to test dynamic web page?\r\n\r\nHarun\t\r\n40. Difference between Object and Class?\t\r\n. What are the limitations of Selenium?\t\r\n18. How to test dynamic table?\r\n\r\nGalip\r\n43. What is final keyword?\t\r\n5. What types of testing you automate with Selenium?\t\r\n21. How can we move to nth child element using xpath?\r\n\r\nBerk\t\r\n44. What is static keyword?\r\n*class level variables       *methods also\r\n6. What we don't do with selenium?\r\n*experts trained             *Pure database testing\r\n22. Difference between xpath and css selector?\r\n\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/GroupPractice01 b/GroupPractice01
+--- a/GroupPractice01	(revision 2fbb7970efc3427445e88a0f5009d3d7252b8ecc)
++++ b/GroupPractice01	(date 1624880483197)
+@@ -25,7 +25,7 @@
+ 
+ Mehmet S	
+ 21. Difference between method Overloading and method Overriding?
+-.
++..
+ 
+ 48. What is Iterator and difference between for each loop?
+ 
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d7346a35-9446-4d39-afe2-ba706b6af54e\" name=\"Default Changelist\" comment=\"question  keyword added\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"mehmetsoylu3\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SWAP_SIDES_IN_COMPARE_BRANCHES\" value=\"true\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1uFJafzdwMpsQ2nbw9QaW4xr32j\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Senator\\IdeaProjects\\GroupCollaboration\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d7346a35-9446-4d39-afe2-ba706b6af54e\" name=\"Default Changelist\" comment=\"Berk_From_IntelliJ&#10;dog class methods added\" />\r\n      <created>1624255468663</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1624255468663</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Berk_From_IntelliJ started\">\r\n      <created>1624364325371</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624364325371</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Berk_From_IntelliJ&#10;dog class and variables added\">\r\n      <created>1624364493485</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624364493485</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Berk_From_IntelliJ&#10;dog class methods added\">\r\n      <created>1624364559624</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624364559624</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"question 21. keyword added\">\r\n      <created>1624879620996</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624879620996</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"question. keyword added\">\r\n      <created>1624879722669</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624879722669</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"question keyword added\">\r\n      <created>1624879881468</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624879881468</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"question  keyword added\">\r\n      <created>1624879893338</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624879893338</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"mehmetsoylu3\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Berk_From_IntelliJ started\" />\r\n    <MESSAGE value=\"Berk_From_IntelliJ&#10;dog class and variables added\" />\r\n    <MESSAGE value=\"Berk_From_IntelliJ&#10;dog class methods added\" />\r\n    <MESSAGE value=\"question 21. keyword added\" />\r\n    <MESSAGE value=\"question. keyword added\" />\r\n    <MESSAGE value=\"question keyword added\" />\r\n    <MESSAGE value=\"question  keyword added\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"question  keyword added\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2fbb7970efc3427445e88a0f5009d3d7252b8ecc)
++++ b/.idea/workspace.xml	(date 1624880984151)
+@@ -1,7 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="d7346a35-9446-4d39-afe2-ba706b6af54e" name="Default Changelist" comment="question  keyword added" />
++    <list default="true" id="d7346a35-9446-4d39-afe2-ba706b6af54e" name="Default Changelist" comment="questio.. keyword added">
++      <change beforePath="$PROJECT_DIR$/GroupPractice01" beforeDir="false" afterPath="$PROJECT_DIR$/GroupPractice01" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -13,11 +15,14 @@
+         <option value="Class" />
+       </list>
+     </option>
++  </component>
++  <component name="Git.Merge.Settings">
++    <option name="BRANCH" value="MehmetSoylu" />
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="mehmetsoylu3" />
++        <entry key="$PROJECT_DIR$" value="master" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -96,7 +101,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1624879893338</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="questio.. keyword added">
++      <created>1624880492088</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1624880492088</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -110,7 +122,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="mehmetsoylu3" />
++                        <option value="MehmetSoylu" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -131,6 +143,7 @@
+     <MESSAGE value="question. keyword added" />
+     <MESSAGE value="question keyword added" />
+     <MESSAGE value="question  keyword added" />
+-    <option name="LAST_COMMIT_MESSAGE" value="question  keyword added" />
++    <MESSAGE value="questio.. keyword added" />
++    <option name="LAST_COMMIT_MESSAGE" value="questio.. keyword added" />
+   </component>
+ </project>
+\ No newline at end of file
