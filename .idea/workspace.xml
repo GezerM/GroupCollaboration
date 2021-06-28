@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7346a35-9446-4d39-afe2-ba706b6af54e" name="Default Changelist" comment="Berk_From_IntelliJ&#10;dog class methods added" />
+    <list default="true" id="d7346a35-9446-4d39-afe2-ba706b6af54e" name="Default Changelist" comment="Berk_From_IntelliJ&#10;dog class methods added">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_06_2021_00_10__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_06_2021_00_10__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GroupPractice01" beforeDir="false" afterPath="$PROJECT_DIR$/GroupPractice01" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +78,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="MehmetSoylu" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
