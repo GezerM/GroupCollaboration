@@ -25,11 +25,23 @@ Mehmet A
 
 Mehmet S	
 21. Difference between method Overloading and method Overriding?
+
 .
 ..
 48. What is Iterator and difference between for each loop?
 
+
+Keyword:
+Overloading -same name different parameters,-in same class, -return type same or not
+Overriding -same name same parameters,-in two class,-same return type
+48. What is Iterator and difference between for each loop?
+Keyword:
+-Iterator:Works with arrayList ant Not array, change to list,
+-for each loop: cannot change our list.
+
 11. What are various ways of locating an element in Selenium?
+Keyword : Id, name, className, xpath, css, linkText, partialLinkText, tagName
+
 
 
 	
