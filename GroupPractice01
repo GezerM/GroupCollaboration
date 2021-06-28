@@ -98,3 +98,14 @@ Berk
 22. Difference between xpath and css selector?
 
 
+Sadik
+11.What is the difference between a local variable and an instance variable?
+*instance variable=inside the class but outside the method
+-gets memory when an objector instance is created
+*local=inside the body of the method
+7.Which class is the super class of all classes?
+*Object class
+153.What is the role of the Scrum Master?
+*coaches to team
+*removes impediments
+*organize the scrum events
