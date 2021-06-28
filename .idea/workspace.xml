@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
+    <list default="true" id="d7346a35-9446-4d39-afe2-ba706b6af54e" name="Default Changelist" comment="question  keyword added" />
+
     <list default="true" id="d7346a35-9446-4d39-afe2-ba706b6af54e" name="Default Changelist" comment="Berk_From_IntelliJ&#10;dog class methods added">
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_06_2021_00_10__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_06_2021_00_10__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroupPractice01" beforeDir="false" afterPath="$PROJECT_DIR$/GroupPractice01" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="mehmetsoylu3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="ProjectId" id="1uFJafzdwMpsQ2nbw9QaW4xr32j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,7 +75,35 @@
       <option name="project" value="LOCAL" />
       <updated>1624364559624</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="question 21. keyword added">
+      <created>1624879620996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624879620996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="question. keyword added">
+      <created>1624879722669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624879722669</updated>
+    </task>
+    <task id="LOCAL-00006" summary="question keyword added">
+      <created>1624879881468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624879881468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="question  keyword added">
+      <created>1624879893338</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624879893338</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,7 +117,11 @@
                   <entry key="branch">
                     <value>
                       <list>
+
+                        <option value="mehmetsoylu3" />
+
                         <option value="MehmetSoylu" />
+
                       </list>
                     </value>
                   </entry>
@@ -101,6 +138,10 @@
     <MESSAGE value="Berk_From_IntelliJ started" />
     <MESSAGE value="Berk_From_IntelliJ&#10;dog class and variables added" />
     <MESSAGE value="Berk_From_IntelliJ&#10;dog class methods added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Berk_From_IntelliJ&#10;dog class methods added" />
+    <MESSAGE value="question 21. keyword added" />
+    <MESSAGE value="question. keyword added" />
+    <MESSAGE value="question keyword added" />
+    <MESSAGE value="question  keyword added" />
+    <option name="LAST_COMMIT_MESSAGE" value="question  keyword added" />
   </component>
 </project>
