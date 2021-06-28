@@ -33,6 +33,8 @@ Keyword:
 -Iterator:Works with arrayList ant Not array, change to list,
 -for each loop: cannot change our list.
 11. What are various ways of locating an element in Selenium?
+Keyword : Id, name, className, xpath, css, linkText, partialLinkText, tagName
+
 
 	
 
