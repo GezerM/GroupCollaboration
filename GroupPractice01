@@ -81,9 +81,13 @@ Sema
 17. How to test dynamic web page?
 
 Harun	
-40. Difference between Object and Class?	
-. What are the limitations of Selenium?	
+40. Difference between Object and Class?
+* blueprint, template; instance, new keyword
+. What are the limitations of Selenium?
+* web based applications
+
 18. How to test dynamic table?
+* use custom xpath and CSS locators
 
 Galip
 43. What is final keyword?	
