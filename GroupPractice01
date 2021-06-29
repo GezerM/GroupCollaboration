@@ -24,9 +24,18 @@ Mehmet A
 7. What is in the Selenium tool set?
 
 Mehmet S	
-21. Difference between method Overloading and method Overriding?	
-48. What is Iterator and difference between for each loop?	
+21. Difference between method Overloading and method Overriding?
+Keyword:
+   Overloading -same name different parameters,-in same class, -return type same or not
+   Overriding -same name same parameters,-in two class,-same return type
+48. What is Iterator and difference between for each loop?
+Keyword:
+  -Iterator:Works with arrayList ant Not array, change to list,
+  -for each loop: cannot change our list.
 11. What are various ways of locating an element in Selenium?
+Keyword : Id, name, className, xpath, css, linkText, partialLinkText, tagName
+
+
 
 	
 
@@ -72,9 +81,13 @@ Sema
 17. How to test dynamic web page?
 
 Harun	
-40. Difference between Object and Class?	
-. What are the limitations of Selenium?	
+40. Difference between Object and Class?
+* blueprint, template; instance, new keyword
+. What are the limitations of Selenium?
+* web based applications
+
 18. How to test dynamic table?
+* use custom xpath and CSS locators
 
 Galip
 43. What is final keyword?	
@@ -88,6 +101,7 @@ Berk
 *experts trained             *Pure database testing
 22. Difference between xpath and css selector?
 
+
 Hacı
 14.consept of abstraction
 *hiding the implementation  *what the object does instead of how it does it.
@@ -95,3 +109,17 @@ Hacı
 *current browser   * all browser
 4.what is Java development kit
 *Application   * JVM+JRE+Dev.Kit
+
+
+Sadik
+11.What is the difference between a local variable and an instance variable?
+*instance variable=inside the class but outside the method
+-gets memory when an objector instance is created
+*local=inside the body of the method
+7.Which class is the super class of all classes?
+*Object class
+153.What is the role of the Scrum Master?
+*coaches to team
+*removes impediments
+*organize the scrum events
+
